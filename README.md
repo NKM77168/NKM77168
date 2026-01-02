@@ -18,6 +18,7 @@ Currently improving my skills through academic projects, coding practice, and ha
 - C
 - Python
 - Java (Basic)
+- MySQL
 
 ### Core Concepts
 - Data Structures (Basic)
@@ -45,11 +46,6 @@ Currently improving my skills through academic projects, coding practice, and ha
 - Focused on strengthening core programming fundamentals
 
 ---
-
-
-
----
-
 ## 🏆 Achievements & Activities
 - Regularly practicing coding questions for placements
   
