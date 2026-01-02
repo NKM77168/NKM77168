@@ -61,7 +61,7 @@ Currently improving my skills through academic projects, coding practice, and ha
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/NKM77168
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/nesrin-k-mohammed-3aab10328
 
 ---
 
